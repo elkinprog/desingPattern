@@ -1,0 +1,15 @@
+D:\paternDesing\paternnDesingExamples\bin\Debug\net6.0\paternnDesingExamples.exe
+D:\paternDesing\paternnDesingExamples\bin\Debug\net6.0\paternnDesingExamples.deps.json
+D:\paternDesing\paternnDesingExamples\bin\Debug\net6.0\paternnDesingExamples.runtimeconfig.json
+D:\paternDesing\paternnDesingExamples\bin\Debug\net6.0\paternnDesingExamples.dll
+D:\paternDesing\paternnDesingExamples\bin\Debug\net6.0\paternnDesingExamples.pdb
+D:\paternDesing\paternnDesingExamples\obj\Debug\net6.0\paternnDesingExamples.csproj.AssemblyReference.cache
+D:\paternDesing\paternnDesingExamples\obj\Debug\net6.0\paternnDesingExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\paternDesing\paternnDesingExamples\obj\Debug\net6.0\paternnDesingExamples.AssemblyInfoInputs.cache
+D:\paternDesing\paternnDesingExamples\obj\Debug\net6.0\paternnDesingExamples.AssemblyInfo.cs
+D:\paternDesing\paternnDesingExamples\obj\Debug\net6.0\paternnDesingExamples.csproj.CoreCompileInputs.cache
+D:\paternDesing\paternnDesingExamples\obj\Debug\net6.0\paternnDesingExamples.dll
+D:\paternDesing\paternnDesingExamples\obj\Debug\net6.0\refint\paternnDesingExamples.dll
+D:\paternDesing\paternnDesingExamples\obj\Debug\net6.0\paternnDesingExamples.pdb
+D:\paternDesing\paternnDesingExamples\obj\Debug\net6.0\paternnDesingExamples.genruntimeconfig.cache
+D:\paternDesing\paternnDesingExamples\obj\Debug\net6.0\ref\paternnDesingExamples.dll

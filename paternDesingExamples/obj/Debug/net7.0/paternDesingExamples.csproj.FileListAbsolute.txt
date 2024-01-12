@@ -1,0 +1,12 @@
+D:\paternDesing\paternDesingExamples\bin\Debug\net7.0\paternDesingExamples.deps.json
+D:\paternDesing\paternDesingExamples\bin\Debug\net7.0\paternDesingExamples.dll
+D:\paternDesing\paternDesingExamples\bin\Debug\net7.0\paternDesingExamples.pdb
+D:\paternDesing\paternDesingExamples\obj\Debug\net7.0\paternDesingExamples.csproj.AssemblyReference.cache
+D:\paternDesing\paternDesingExamples\obj\Debug\net7.0\paternDesingExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\paternDesing\paternDesingExamples\obj\Debug\net7.0\paternDesingExamples.AssemblyInfoInputs.cache
+D:\paternDesing\paternDesingExamples\obj\Debug\net7.0\paternDesingExamples.AssemblyInfo.cs
+D:\paternDesing\paternDesingExamples\obj\Debug\net7.0\paternDesingExamples.csproj.CoreCompileInputs.cache
+D:\paternDesing\paternDesingExamples\obj\Debug\net7.0\paternDesingExamples.dll
+D:\paternDesing\paternDesingExamples\obj\Debug\net7.0\refint\paternDesingExamples.dll
+D:\paternDesing\paternDesingExamples\obj\Debug\net7.0\paternDesingExamples.pdb
+D:\paternDesing\paternDesingExamples\obj\Debug\net7.0\ref\paternDesingExamples.dll
