@@ -1,6 +1,6 @@
 ﻿namespace paternnDesingExamples
 {
-    public class creacional_Prototype:ICloneable               // patron de diseño creacional es cuando se crea el objeto clonacion superficial
+    public class creacional_Prototype:ICloneable               // patron de diseño creacional  prototype es cuando se crea el objeto clonacion superficial
     {                                                          // sirve para clonar un objeto  
         public  int      Patas      { get; set; }
         public  string?  Nombre     { get; set; }
@@ -13,7 +13,7 @@
         }
     }
      
-    public class detalles                                     // patron de diseño creacional es cuando se crea el objeto clonacion deep profundo
+    public class detalles                                     // patron de diseño creacional prototype es cuando se crea el objeto clonacion deep profundo
     {
         public string? color{ get; set; }
         public string? raza { get; set; }
